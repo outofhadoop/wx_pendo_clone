@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "homein": "../component/home_main/homein/homein"
+  }
+}

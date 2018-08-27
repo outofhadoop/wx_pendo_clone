@@ -1,0 +1,5 @@
+/* pages/component/home_main/serch.wxss */
+.home_main_top_search{
+  width: 200px;
+  border: solid;
+}

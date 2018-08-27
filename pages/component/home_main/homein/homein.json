@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "serch": "/pages/component/home_main/serch/serch"
+  }
+}

@@ -1,0 +1,4 @@
+<!--pages/component/home_main/homeIn/homeIn.wxml-->
+<view>
+  <serch></serch>
+</view>

@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/homeGate/homeGate",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/component/home_main/serch/serch"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

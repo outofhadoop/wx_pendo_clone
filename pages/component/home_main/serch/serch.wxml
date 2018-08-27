@@ -1,0 +1,6 @@
+<!--pages/component/home_main/serch.wxml-->
+<view>
+  <view class='home_main_top_search'>
+    <icon type="search"></icon>
+  </view>
+</view>
