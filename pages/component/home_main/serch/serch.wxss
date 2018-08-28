@@ -1,5 +1,7 @@
 /* pages/component/home_main/serch.wxss */
 .home_main_top_search{
-  width: 200px;
-  border: solid;
+  display: inline-block;
+  border-radius: 90px;
+  border: solid 1px;
+  padding: 5px 7px 5px 7px;
 }

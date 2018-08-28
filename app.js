@@ -1,4 +1,5 @@
 //app.js
+var THEME = require('./utils/setting/theme.js'); // 主题
 App({
   onLaunch: function () {
     // 展示本地存储能力
@@ -34,6 +35,8 @@ App({
     })
   },
   globalData: {
-    userInfo: null
+    userInfo: null,
+    theme: THEME, // 主题所有的配置
+    CURRENTTHEME: 'COMMON', // 当前主题
   }
 })
