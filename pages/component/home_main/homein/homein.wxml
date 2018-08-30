@@ -1,4 +1,4 @@
 <!--pages/component/home_main/homeIn/homeIn.wxml-->
-<view>
+<view style="display:inline-block;">
   <serch></serch>
 </view>

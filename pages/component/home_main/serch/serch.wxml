@@ -1,6 +1,6 @@
 <!--pages/component/home_main/serch.wxml-->
-<view>
-  <view class='home_main_top_search'>
-    <icon type="search"></icon>
+<view style="display:inline-block;">
+  <view class="home_main_top_search" style="background:{{globalTheme.MAIN.ICON.bg}};color:{{globalTheme.MAIN.ICON.inner}}">
+    <icon type="search" size='{{iconSize}}' color="{{globalTheme.MAIN.ICON.inner}}"></icon>
   </view>
 </view>

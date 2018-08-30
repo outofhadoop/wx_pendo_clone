@@ -5,12 +5,12 @@ var COMMON = {
   MAIN: {
     TEXT: 'rgba(255,255,255,255)',
     BUTTON: {
-      bg: 'red',
-      innerText: 'white'
+      bg: '#c7c6c0',
+      inner: '#ffffff'
     },
     ICON: {
-      bg: 'red',
-      inner: 'white'
+      bg: '#c7c6c0',
+      inner: '#ffffff'
     }
   }
 }

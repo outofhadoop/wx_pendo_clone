@@ -2,6 +2,9 @@
 .home_main_top_search{
   display: inline-block;
   border-radius: 90px;
-  border: solid 1px;
-  padding: 5px 7px 5px 7px;
+  
+}
+.home_main_top_search icon{
+  border-radius: 100px;
+  padding: 5px;
 }
