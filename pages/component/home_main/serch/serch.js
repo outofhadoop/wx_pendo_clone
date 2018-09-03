@@ -34,10 +34,7 @@ Component({
   },
   // 组件的声明周期函数有这种奇葩写法
   lifetimes: {
-    onShow () {
-      this.showGlobalParam();
-      console.log(this.route)
-    }
+
   },
   // 也可以写在外面
   attached: function () {

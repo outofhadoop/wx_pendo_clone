@@ -1,6 +1,7 @@
 {
   "component": true,
   "usingComponents": {
-    "serch": "/pages/component/home_main/serch/serch"
+    "serch": "/pages/component/home_main/serch/serch",
+    "date": "/pages/component/home_main/time/time"
   }
 }

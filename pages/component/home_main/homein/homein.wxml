@@ -1,4 +1,5 @@
 <!--pages/component/home_main/homeIn/homeIn.wxml-->
 <view style="display:inline-block;">
-  <serch></serch>
+  <serch class="display_inline"></serch>
+  <date class="display_inline home_main_date"></date>
 </view>

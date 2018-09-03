@@ -1,1 +1,7 @@
 /* pages/component/home_main/homeIn/homeIn.wxss */
+.display_inline{
+    display: inline-block;
+}
+.home_main_date{
+    
+}
